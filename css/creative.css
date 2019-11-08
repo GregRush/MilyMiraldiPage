@@ -7851,6 +7851,12 @@ button.bg-dark:focus {
   margin-right: auto !important;
 }
 
+.row {
+    display: flex;
+    justify-content: center;
+    
+}
+
 .mb-auto,
 .my-auto {
   margin-bottom: auto !important;
